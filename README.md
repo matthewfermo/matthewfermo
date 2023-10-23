@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love streaming and editing clips from games I'd play on Twitch 👾**
 
-- ⚡ Fun fact **I speak Portuguese fluently and have an intermediate level of Spanish in my arsenal**
+- 🇧🇷/🇪🇸 Fun fact **I speak Portuguese fluently and have an intermediate level of Spanish in my arsenal**
 
 
 <h3 align="left">Connect with me:</h3>
