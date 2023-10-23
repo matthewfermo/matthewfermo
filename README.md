@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **I love streaming and editing clips from games I'd play on Twitch 👾**
 
+- ⚡ Fun fact **I speak Portuguese fluently and have an intermediate level of Spanish in my arsenal**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/matthewfermo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="matthewfermo" height="30" width="40" /></a>
