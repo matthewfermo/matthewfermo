@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew Fermo</h1>
-<h3 align="center">A passionate full stack developer from Boston, MA, looking to get better each day</h3>
+<h3 align="center">A passionate full stack developer from Boston, MA <br> Looking to get better each day</h3>
 
 <p align="left"> <a href="https://twitter.com/matthewfermo" target="blank"><img src="https://img.shields.io/twitter/follow/matthewfermo?logo=twitter&style=for-the-badge" alt="matthewfermo" /></a> </p>
 
