@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building web apps with Resilient Coders**
 
-- 🌱 I’m currently learning **Backend Development as of 11/7/23**
+- 🌱 I’m currently learning **Backend Development** as of 11/7/23
 
 - 📫 How to reach me **matthew.t.fermo@gmail.com**
 
