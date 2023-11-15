@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/matthewfermo" target="blank"><img src="https://img.shields.io/twitter/follow/matthewfermo?logo=twitter&style=for-the-badge" alt="matthewfermo" /></a> </p>
 
-- 🔭 I’m currently working on **building web apps with Resilient Coders**
+- 🔭 I’m working on **building web apps with Resilient Coders**
 
 - 🌱 I’m currently learning **Backend Development** as of 11/7/23
 
