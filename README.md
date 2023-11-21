@@ -1,4 +1,4 @@
-<img src = "Desktop/cbf-banner.png" alt="cbf-banner">
+
 
 
 <h1 align="center"> Hi, I'm Matthew Fermo 👋</h1>
