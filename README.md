@@ -1,3 +1,6 @@
+<img src = "images/cbf-banner.png" alt="cbf-banner">
+
+
 <h1 align="center"> Hi, I'm Matthew Fermo 👋</h1>
 <h3 align="center">A passionate full stack developer from Boston, MA <br> Looking to get better each day</h3>
 
